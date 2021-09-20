@@ -1,0 +1,16 @@
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\obj\Debug\net5.0\catseries.csprojAssemblyReference.cache
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\obj\Debug\net5.0\catseries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\obj\Debug\net5.0\catseries.AssemblyInfoInputs.cache
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\obj\Debug\net5.0\catseries.AssemblyInfo.cs
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\obj\Debug\net5.0\catseries.csproj.CoreCompileInputs.cache
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\bin\Debug\net5.0\catseries.exe
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\bin\Debug\net5.0\catseries.deps.json
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\bin\Debug\net5.0\catseries.runtimeconfig.json
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\bin\Debug\net5.0\catseries.runtimeconfig.dev.json
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\bin\Debug\net5.0\catseries.dll
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\bin\Debug\net5.0\ref\catseries.dll
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\bin\Debug\net5.0\catseries.pdb
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\obj\Debug\net5.0\catseries.dll
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\obj\Debug\net5.0\ref\catseries.dll
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\obj\Debug\net5.0\catseries.pdb
+C:\Users\igoma\OneDrive\Área de Trabalho\INFORMATICA PROGRAMAS\bootcamp avanade dev decola\catseries\obj\Debug\net5.0\catseries.genruntimeconfig.cache
